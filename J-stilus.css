@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body{
+    background: gray;
+}
+main, header, div, section, article, footer{
+    border:1px solid gray;
+}
+main{
+    max-width: 600px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+#nagyKep{
+    margin: auto;
+}
+img{
+    width: 100%;
+    padding: 0px;
+/*    border: 2px solid blue;
+    float: none;*/
+}
+
+section div{
+    margin: auto;
+}
+div{
+    padding: 5px;
+}
+article{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+}
+article div:hover{
+    cursor: grab;
+}
+form fieldset{
+    display:grid;
+    grid-template-columns:100px auto;
+
+}
+label{
+    text-align: right;
+}

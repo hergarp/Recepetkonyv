@@ -1,0 +1,51 @@
+[
+
+    {
+        "nev": "kukorica leves",
+        "Elkészítési idő": 30,
+        "eleresiut": "kepek/kukoricaleves.jpg",
+        "leiras": "így kell elkészíteni a levest",
+        "kategória": "leves",
+        "ár":"500 Ft"
+    },
+    {
+        "nev": "Kelbimbós csirkeleves ",
+        "Elkészítési idő": 30,
+        "eleresiut": "kepek/kelbimbos-csirkeleves.jpg",
+        "leiras": "így kell elkészíteni a levest",
+        "kategória": "leves",
+        "ár":"500 Ft"
+    },
+    {
+        "nev": "Rakott csirke",
+        "Elkészítési idő": 60,
+        "eleresiut": "kepek/rakott-csirke.jpg",
+        "leiras": "így kell elkészíteni a főételt",
+        "kategória": "főétel",
+        "ár":"1000 Ft"
+    },
+    {
+        "nev": "Mandulás-epres galette",
+        "Elkészítési idő": 40,
+        "eleresiut": "kepek/Mandulas_epres.jpg",
+        "leiras": "így kell elkészíteni a süteményt",
+        "kategória": "sütemény",
+        "ár":"400 Ft"
+    },
+    {
+        "nev": "Túrótorta",
+        "Elkészítési idő": 40,
+        "eleresiut": "kepek/turos_torta.jpg",
+        "leiras": "így kell elkészíteni a süteményt",
+        "kategória": "sütemény",
+        "ár":"400 Ft"
+    },
+    {
+        "nev": "túrós csúsza",
+        "Elkészítési idő": 60,
+        "eleresiut": "kepek/turos-csusza.jpg",
+        "leiras": "így kell elkészíteni a főételt",
+        "kategória": "főétel",
+        "ár":"1000 Ft"
+    }
+]
